@@ -1,0 +1,4 @@
+Sklep ABC;sklep
+Zaklad Uslugowy XYZ;zakład usługowy
+Firma Transportowa 123;firma transportowa
+taxi24;firma transportowa
